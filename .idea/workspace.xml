@@ -4,65 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57381963-6aae-442e-830b-86f5b03e7ff7" name="Changes" comment="exam">
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/31e0baa04c11b421087f2a27cdd4965b/.filecache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/31e0baa04c11b421087f2a27cdd4965b/app.dill" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/31e0baa04c11b421087f2a27cdd4965b/debug_android_application.stamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/31e0baa04c11b421087f2a27cdd4965b/flutter_assets.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/31e0baa04c11b421087f2a27cdd4965b/gen_dart_plugin_registrant.stamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/31e0baa04c11b421087f2a27cdd4965b/gen_localizations.stamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/31e0baa04c11b421087f2a27cdd4965b/kernel_snapshot.stamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/31e0baa04c11b421087f2a27cdd4965b/kernel_snapshot_native_assets.stamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/31e0baa04c11b421087f2a27cdd4965b/kernel_snapshot_program.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/31e0baa04c11b421087f2a27cdd4965b/kernel_snapshot_program.stamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/31e0baa04c11b421087f2a27cdd4965b/native_assets.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/31e0baa04c11b421087f2a27cdd4965b/native_assets.dill" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/31e0baa04c11b421087f2a27cdd4965b/native_assets.stamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/31e0baa04c11b421087f2a27cdd4965b/native_assets.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/31e0baa04c11b421087f2a27cdd4965b/outputs.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/31e0baa04c11b421087f2a27cdd4965b/program.dill" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/package_config_subset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/version" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/main_dart.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analysis_options.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/src/main/java/com/example/exam/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/api.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/home.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/model/place.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="57381963-6aae-442e-830b-86f5b03e7ff7" name="Changes" comment="exam" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +59,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "vcs.Git",
     "show.migrate.to.gradle.popup": "false",
     "vue.rearranger.settings.migration": "true"
   }
@@ -141,8 +83,17 @@
       <workItem from="1743077178689" duration="4486000" />
       <workItem from="1743082886039" duration="379000" />
       <workItem from="1743084066152" duration="378000" />
-      <workItem from="1743097893310" duration="579000" />
+      <workItem from="1743097893310" duration="900000" />
     </task>
+    <task id="LOCAL-00001" summary="exam">
+      <option name="closed" value="true" />
+      <created>1743098551007</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743098551007</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
